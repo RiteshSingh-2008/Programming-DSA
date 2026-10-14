@@ -1,3 +1,3 @@
 # Programming-DSA
 DSA questions  
-Basic questions
+Basic questions(conditions and loops)
